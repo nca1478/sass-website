@@ -1,29 +1,29 @@
-# Portfolio Website
+# Portafolio (Sitio Web)
 
-Portfolio Website is a website to provides professional information about an individual or a company and presents a showcase of their work.
+Portafolio es un sitio web que proporciona información profesional sobre un individuo o una empresa y presenta una muestra de su trabajo.
 
-## Features
+## Características
 
-- Four page website (Home, About, Work and Contact).
-- Header with main menu with options to access the sections of the site.
-- Links to the social networks.
-- Graphs that show the percentage of knowledge of each skill.
-- Testimonials section.
-- Works section.
-- Contact form.
+- Sitio Web de Cuatro Páginas (Inicio, Acerca de mí, Proyectos and Contacto).
+- Encabezado con menú principal para acceder a las secciones del sitio.
+- Links a las Redes Sociales.
+- Gráficas que muestran el porcentaje de conocimiento de cada habilidad.
+- Sección de Testimonios.
+- Sección de Proyectos.
+- Formulario de Contacto.
 
-## General Information
+## Información General
 
-- The purpose of this project is to practice the web technologies shown below.
+- El propósito de este proyecto es practicar las tecnologías web que se muestran a continuación.
 
-## Tech Stack
+## Tecnologías (Tech Stack)
 
 - HTML5.
-- CSS3 (Flexbox, CSS Grid and Media Queries).
+- CSS3 (Flexbox, CSS Grid y Media Queries).
 - SASS.
-- Responsive Design (screens for all devices).
+- Responsive Design.
 
-## Development tools and other Technologies
+## Herramientas de Desarrollo y Otras Tecnologías
 
 - [Fontawesome 5.15.3](https://fontawesome.com/v5/search)
 - [Google Fonts](https://fonts.google.com/)
@@ -33,20 +33,20 @@ Portfolio Website is a website to provides professional information about an ind
 
 ## Demo
 
-[Portfolio Website](https://portfolio-website-njca.netlify.app/)
+[Portafolio Sitio Web](https://portfolio-website-njca.netlify.app/)
 
-## Installation
+## Instalación
 
-Install node-sass (scss to css file compiler):
+Instalar node-sass (compilador de scss a css):
 
 > npm install
 
-To run node-sass, open the project folder and then run node console. Once there enter the following command:
+Para ejecutar node-sass, abrir la carpeta del proyecto y ejecutar la consola de node. Una vez allí, ingrese el siguiente comando:
 
 > npm run sass
 
-To see project changes in real time, open dist/index.html with the vscode extension, [Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus)
+Para ver los cambios del proyecto en tiempo real, abra dist/index.html con la extensión vscode [Live Server](https://github.com/ritwickdey/vscode-live-server-plus-plus)
 
-## Input or main file
+## Entrada o Archivo Principal
 
 > dist/index.html
